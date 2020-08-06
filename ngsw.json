@@ -1,0 +1,80 @@
+{
+  "configVersion": 1,
+  "timestamp": 1596699555994,
+  "index": "https://nish124.github.io/tiktoktoe/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "urls": [
+        "https://nish124.github.io/tiktoktoe/favicon.ico",
+        "https://nish124.github.io/tiktoktoe/index.html",
+        "https://nish124.github.io/tiktoktoe/main-es2015.9daaedef99b7f79b2406.js",
+        "https://nish124.github.io/tiktoktoe/main-es5.9daaedef99b7f79b2406.js",
+        "https://nish124.github.io/tiktoktoe/manifest.webmanifest",
+        "https://nish124.github.io/tiktoktoe/polyfills-es2015.690002c25ea8557bb4b0.js",
+        "https://nish124.github.io/tiktoktoe/polyfills-es5.9e286f6d9247438cbb02.js",
+        "https://nish124.github.io/tiktoktoe/runtime-es2015.1eba213af0b233498d9d.js",
+        "https://nish124.github.io/tiktoktoe/runtime-es5.1eba213af0b233498d9d.js",
+        "https://nish124.github.io/tiktoktoe/styles.c5f80b0d2a9474e22799.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "urls": [
+        "https://nish124.github.io/tiktoktoe/assets/icons/icon-128x128.png",
+        "https://nish124.github.io/tiktoktoe/assets/icons/icon-144x144.png",
+        "https://nish124.github.io/tiktoktoe/assets/icons/icon-152x152.png",
+        "https://nish124.github.io/tiktoktoe/assets/icons/icon-192x192.png",
+        "https://nish124.github.io/tiktoktoe/assets/icons/icon-384x384.png",
+        "https://nish124.github.io/tiktoktoe/assets/icons/icon-512x512.png",
+        "https://nish124.github.io/tiktoktoe/assets/icons/icon-72x72.png",
+        "https://nish124.github.io/tiktoktoe/assets/icons/icon-96x96.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "https://nish124.github.io/tiktoktoe/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "https://nish124.github.io/tiktoktoe/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "https://nish124.github.io/tiktoktoe/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "https://nish124.github.io/tiktoktoe/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "https://nish124.github.io/tiktoktoe/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "https://nish124.github.io/tiktoktoe/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "https://nish124.github.io/tiktoktoe/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "https://nish124.github.io/tiktoktoe/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "https://nish124.github.io/tiktoktoe/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "https://nish124.github.io/tiktoktoe/index.html": "443cf40f1c1bc0fb2980f2ecafefe3e50f1ab524",
+    "https://nish124.github.io/tiktoktoe/main-es2015.9daaedef99b7f79b2406.js": "c65942b09ab910362f9ffd1c441be851fda7d192",
+    "https://nish124.github.io/tiktoktoe/main-es5.9daaedef99b7f79b2406.js": "1d631b0b5432d1e0a69c2ffe8905c850804dc223",
+    "https://nish124.github.io/tiktoktoe/manifest.webmanifest": "7fb16928f12af902fc7094e1d72132536350cbf2",
+    "https://nish124.github.io/tiktoktoe/polyfills-es2015.690002c25ea8557bb4b0.js": "72ad4ccc0a3916ae4598199447cdeadd6d380570",
+    "https://nish124.github.io/tiktoktoe/polyfills-es5.9e286f6d9247438cbb02.js": "89222a28dbabb780fc372d33834080e0cd3083d9",
+    "https://nish124.github.io/tiktoktoe/runtime-es2015.1eba213af0b233498d9d.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
+    "https://nish124.github.io/tiktoktoe/runtime-es5.1eba213af0b233498d9d.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
+    "https://nish124.github.io/tiktoktoe/styles.c5f80b0d2a9474e22799.css": "4a48aa9a3fe2715e9062d2feceecaed363fab9e2"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ]
+}
