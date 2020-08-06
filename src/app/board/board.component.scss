@@ -1,0 +1,12 @@
+main{
+    display: grid;
+    grid-template-columns: 80px 80px 80px;
+    margin-top: 20px;
+}
+app-sqaure{
+  border: 1px #fff solid;
+  height: 80px;
+  font-size: 24px;
+  display: grid;
+  background-color: #fff;
+}
